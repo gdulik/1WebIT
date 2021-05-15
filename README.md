@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project of TODO List for 2nd round of 1WebIT interview
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
